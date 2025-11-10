@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "industry": "Software Development",
+    "location": "Bangalore",
+    "size": "200-500",
+    "website": "https://technova.com"
+  },
+  {
+    "id": 2,
+    "name": "GreenLeaf Agro",
+    "industry": "Agriculture",
+    "location": "Pune",
+    "size": "50-200",
+    "website": "https://greenleafagro.in"
+  },
+  {
+    "id": 3,
+    "name": "Cloudify Systems",
+    "industry": "Cloud Computing",
+    "location": "Hyderabad",
+    "size": "500-1000",
+    "website": "https://cloudify.io"
+  },
+  {
+    "id": 4,
+    "name": "MediCure Health",
+    "industry": "Healthcare",
+    "location": "Mumbai",
+    "size": "100-300",
+    "website": "https://medicurehealth.com"
+  },
+  {
+    "id": 5,
+    "name": "EduSmart Technologies",
+    "industry": "EdTech",
+    "location": "Delhi",
+    "size": "300-700",
+    "website": "https://edusmart.tech"
+  },
+  {
+    "id": 6,
+    "name": "AutoVibe Motors",
+    "industry": "Automobile",
+    "location": "Chennai",
+    "size": "500-1200",
+    "website": "https://autovibe.in"
+  },
+  {
+    "id": 7,
+    "name": "Finverse Capital",
+    "industry": "Finance",
+    "location": "Kolkata",
+    "size": "100-400",
+    "website": "https://finversecap.com"
+  },
+  {
+    "id": 8,
+    "name": "PixelWave Studios",
+    "industry": "Design",
+    "location": "Goa",
+    "size": "20-80",
+    "website": "https://pixelwave.studio"
+  },
+  {
+    "id": 9,
+    "name": "DataNexus Analytics",
+    "industry": "Data Science",
+    "location": "Bangalore",
+    "size": "400-800",
+    "website": "https://datanexus.ai"
+  },
+  {
+    "id": 10,
+    "name": "Solaris Energy",
+    "industry": "Renewable Energy",
+    "location": "Jaipur",
+    "size": "250-600",
+    "website": "https://solarisenergy.co.in"
+  },
+  {
+    "id": 11,
+    "name": "Foodio Kitchen",
+    "industry": "Food & Beverages",
+    "location": "Lucknow",
+    "size": "50-150",
+    "website": "https://foodio.in"
+  },
+  {
+    "id": 12,
+    "name": "UrbanBuild Constructions",
+    "industry": "Real Estate",
+    "location": "Delhi",
+    "size": "300-700",
+    "website": "https://urbanbuild.com"
+  },
+  {
+    "id": 13,
+    "name": "RoboLink AI",
+    "industry": "Artificial Intelligence",
+    "location": "Bangalore",
+    "size": "100-300",
+    "website": "https://robolink.ai"
+  },
+  {
+    "id": 14,
+    "name": "Voyage Travels",
+    "industry": "Travel & Tourism",
+    "location": "Kolkata",
+    "size": "80-200",
+    "website": "https://voyagetravels.in"
+  },
+  {
+    "id": 15,
+    "name": "BlueOcean Shipping",
+    "industry": "Logistics",
+    "location": "Mumbai",
+    "size": "600-1000",
+    "website": "https://blueoceanlogistics.com"
+  },
+  {
+    "id": 16,
+    "name": "SafeNet Security",
+    "industry": "Cybersecurity",
+    "location": "Hyderabad",
+    "size": "200-500",
+    "website": "https://safenetsecurity.com"
+  },
+  {
+    "id": 17,
+    "name": "SwiftCart Retail",
+    "industry": "E-commerce",
+    "location": "Ahmedabad",
+    "size": "300-800",
+    "website": "https://swiftcart.in"
+  },
+  {
+    "id": 18,
+    "name": "SkyLoom Aerospace",
+    "industry": "Aerospace",
+    "location": "Bangalore",
+    "size": "400-900",
+    "website": "https://skyloom.in"
+  },
+  {
+    "id": 19,
+    "name": "MetaCore Gaming",
+    "industry": "Gaming",
+    "location": "Chennai",
+    "size": "150-400",
+    "website": "https://metacore.gg"
+  },
+  {
+    "id": 20,
+    "name": "NeoLink Communications",
+    "industry": "Telecom",
+    "location": "Pune",
+    "size": "600-1000",
+    "website": "https://neolinktelecom.com"
+  }
+]
