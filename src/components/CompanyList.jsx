@@ -11,11 +11,11 @@ export default function CompanyList() {
 
   const companiesPerPage = 6;
 
-  // used for filtering (drop down options)
+  // used for filtering and drop down features
   const uniqueLocations = ["All", ...new Set(companiesData.map((c) => c.location))];
   const uniqueIndustries = ["All", ...new Set(companiesData.map((c) => c.industry))];
 
-  // used for Searching,Filtering and Sorting
+  // used for Searching,Filtering and Sorting using array methods
   const filteredCompanies = companiesData
     .filter((c) =>
       c.name.toLowerCase().includes(search.toLowerCase())
@@ -40,7 +40,7 @@ export default function CompanyList() {
 
   return (
     <div className="space-y-6">
-      {/* 🔍 Search + Filters */}
+         {/* 🔍 Search Filters part of the project  */}
       <div className="flex flex-wrap gap-4 justify-between items-center bg-white p-4 rounded-xl shadow">
         <input
           type="text"
@@ -84,14 +84,14 @@ export default function CompanyList() {
         </select>
       </div>
 
-      {/* 🧾 Company Cards */}
+      {/* Company Cards layout */}
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {currentCompanies.map((company) => (
           <Card key={company.id} company={company} />
         ))}
       </div>
 
-      {/* 🔁 Pagination */}
+      {/* Pagination layout of my project */}
       <div className="flex justify-center items-center mt-8 space-x-4">
         <button
           onClick={handlePrev}
