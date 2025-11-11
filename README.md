@@ -21,4 +21,4 @@ It allows users to browse, search, and view company profiles in an elegant and i
 - Git & GitHub
 
 **Deployment:**
-- Netlify 
+- Netlify (https://zunaiddirectory.netlify.app/)
